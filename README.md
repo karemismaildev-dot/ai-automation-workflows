@@ -1,6 +1,3 @@
-# ai-automation-workflows
-AI automation workflows, prompt systems, and productivity templates for creators and businesses.
-AI Automation Workflows
 
 Open-source AI automation workflows, prompt systems, and productivity templates designed for creators, businesses, and non-technical users.
 
