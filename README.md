@@ -1,15 +1,29 @@
+AI Automation Workflows
 
-Open-source AI automation workflows, prompt systems, and productivity templates designed for creators, businesses, and non-technical users.
+Open-source AI automation workflows, prompt systems, and productivity resources for creators, freelancers, and businesses.
 
-Features
+What This Repository Includes
 
-- AI workflow templates
+- AI workflow concepts
 - Prompt engineering systems
-- Social media automation ideas
-- Productivity automations
-- AI agent concepts
-- Creator workflow optimization
+- Automation ideas
+- Creator productivity workflows
+- AI agent experiments
+- Social media automation templates
 
-Goal
+Areas of Interest
 
-This project aims to make AI automation easier and more accessible for everyone.
+- AI Automation
+- Workflow Orchestration
+- Prompt Engineering
+- Creator Tools
+- AI Agents
+- Productivity Systems
+
+Mission
+
+Building practical AI-powered systems that help non-technical users automate repetitive tasks and improve productivity.
+
+Status
+
+Actively maintained and continuously updated.
